@@ -27,3 +27,6 @@
 - [decoders by statquest - youtube video](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
 
 <img width="921" height="455" alt="image" src="https://github.com/user-attachments/assets/bd16160c-a39d-40ff-9f85-e54bf2346681" />
+
+## week 4 - intro to agentic ai 
+
