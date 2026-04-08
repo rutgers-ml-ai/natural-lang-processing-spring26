@@ -35,6 +35,6 @@
 
 
 #### related links to check out:
-- [intro to agentic ai - youtube video]([https://jalammar.github.io/illustrated-transformer/](https://www.youtube.com/watch?v=FwOTs4UxQS4&t=138s)) *start at 2:18 mark
+- [intro to agentic ai - youtube video](https://www.youtube.com/watch?v=FwOTs4UxQS4&t=138s) *start at 2:18 mark
 - [agentic ai by andrew ng - free course](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
