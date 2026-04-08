@@ -29,4 +29,12 @@
 <img width="921" height="455" alt="image" src="https://github.com/user-attachments/assets/bd16160c-a39d-40ff-9f85-e54bf2346681" />
 
 ## week 4 - intro to agentic ai 
+[presentation](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%204/agentic%20ai%20week%204.pdf) | [demo](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%204/nlp_week_4_agentic_ai.ipynb)
+
+<img width="1301" height="570" alt="image" src="https://github.com/user-attachments/assets/34aca070-00bc-4215-8109-1a62a8710e75" />
+
+
+#### related links to check out:
+- [intro to agentic ai - youtube video]([https://jalammar.github.io/illustrated-transformer/](https://www.youtube.com/watch?v=FwOTs4UxQS4&t=138s)) *start at 2:18 mark
+- [agentic ai by andrew ng - free course](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
