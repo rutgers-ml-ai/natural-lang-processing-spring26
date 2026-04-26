@@ -38,7 +38,7 @@
 - [intro to agentic ai - youtube video](https://www.youtube.com/watch?v=FwOTs4UxQS4&t=138s) *start at 2:18 mark
 - [agentic ai by andrew ng - free course](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
-#### week 5 - using agents to create frameworks 
+## week 5 - creating agents via frameworks 
 [demo](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%204/nlp_week_4_agentic_ai.ipynb)
 
 <img width="1301" height="570" alt="image" src="https://github.com/user-attachments/assets/34aca070-00bc-4215-8109-1a62a8710e75" />
