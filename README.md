@@ -1,3 +1,5 @@
+the spring 2026 NLP track has concluded! view all of the projects that fellows worked on here: https://rieee.vercel.app/divisions/mlai/projects
+
 ## week 1 - intro to nlp + retrieval augmented generation (rag)
 [presentation](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%201/understanding%20embeddings%20%2B%20intro%20to%20nlp.pdf) | [demo](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%201/mlai_nlp_week1_rag.ipynb)
 
