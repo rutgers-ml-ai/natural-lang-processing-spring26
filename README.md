@@ -43,6 +43,4 @@ the spring 2026 NLP track has concluded! view all of the projects that fellows w
 ## week 5 - creating agents via frameworks 
 [demo](https://github.com/rutgers-ml-ai/natural-lang-processing-spring26/blob/main/week%205/nlp_week_5_agentic_ai_frameworks.ipynb)
 
-<img width="1301" height="570" alt="image" src="https://github.com/user-attachments/assets/34aca070-00bc-4215-8109-1a62a8710e75" />
-
 
